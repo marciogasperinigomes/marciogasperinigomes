@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌱  I’m currently working on Epagri/Cepa<br>👯 I’m looking to collaborate on Data Science & Analytics projects<br>🔭 I’m a PhD student in economics<br>
 
 
